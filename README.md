@@ -1,6 +1,6 @@
 # About Weather APP
 
-This is the Weather App on React engine. Before you will be use the app you will be asked for check your current geolocation. Then you will see current weather in your city or district. In the form component you can type any city in the world. You will recive the following datas: temperature(in Celsius), weather conditions, pressure, humidity, wind speed and perceptible temperature.
+This is the Weather App with React. Before you will be use the app you will be asked for check your current geolocation. Then you will see current weather in your city or district. In the form component you can type any city in the world. You will recive the following datas: temperature(in Celsius), weather conditions, pressure, humidity, wind speed and perceptible temperature.
 
 The Weather App uses Open Weather Map API.
 
