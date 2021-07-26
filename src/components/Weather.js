@@ -1,7 +1,7 @@
 import {WiNightCloudyGusts, WiHumidity, WiThermometer, WiSunrise, WiCloudy} from 'weather-icons-react'
 
 // In this section you can see all interface Weather. All values and datas have conditions. 
-// npIf coniditon will be 'true' the data will visible.
+// If coniditon will be 'true' the data will visible.
 const Weather = ({infoWeather}) => {
     const {main, name, sys, wind, weather} = infoWeather
     return (
