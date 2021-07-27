@@ -4,7 +4,7 @@ import Weather from './components/Weather'
 import './App.scss';
 
 // API - Open Weather Map
-const api = '33ddc3fc62fbb2111cb2ae4f0b1ccf6e'
+const api = 'Paste your API KEY with Opean Weather Map'
 
 function App() {
   const [datas, setDatas] = useState('')
